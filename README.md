@@ -1,2 +1,2 @@
-# NeuralGameOfLife
-Game of Life played by a deep neural network :D
+# Neural Game of Life
+Conway's Game of Life played by a neural network
